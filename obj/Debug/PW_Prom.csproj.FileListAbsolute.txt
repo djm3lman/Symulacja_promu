@@ -1,0 +1,18 @@
+C:\Users\cp24\source\repos\PW_Prom\PW_Prom\obj\Debug\PW_Prom.csprojAssemblyReference.cache
+C:\Users\cp24\source\repos\PW_Prom\PW_Prom\obj\Debug\PW_Prom.Properties.Resources.resources
+C:\Users\cp24\source\repos\PW_Prom\PW_Prom\obj\Debug\PW_Prom.csproj.GenerateResource.cache
+C:\Users\cp24\source\repos\PW_Prom\PW_Prom\obj\Debug\PW_Prom.csproj.CoreCompileInputs.cache
+C:\Users\cp24\source\repos\PW_Prom\PW_Prom\bin\Debug\PW_Prom.exe.config
+C:\Users\cp24\source\repos\PW_Prom\PW_Prom\bin\Debug\PW_Prom.exe
+C:\Users\cp24\source\repos\PW_Prom\PW_Prom\bin\Debug\PW_Prom.pdb
+C:\Users\cp24\source\repos\PW_Prom\PW_Prom\obj\Debug\PW_Prom.exe
+C:\Users\cp24\source\repos\PW_Prom\PW_Prom\obj\Debug\PW_Prom.pdb
+C:\Users\cp24\OneDrive - Wojskowa Akademia Techniczna\IV semestr\Programowanie Współbieżne\Projekt\PW_Prom\PW_Prom\bin\Debug\PW_Prom.exe.config
+C:\Users\cp24\OneDrive - Wojskowa Akademia Techniczna\IV semestr\Programowanie Współbieżne\Projekt\PW_Prom\PW_Prom\bin\Debug\PW_Prom.exe
+C:\Users\cp24\OneDrive - Wojskowa Akademia Techniczna\IV semestr\Programowanie Współbieżne\Projekt\PW_Prom\PW_Prom\bin\Debug\PW_Prom.pdb
+C:\Users\cp24\OneDrive - Wojskowa Akademia Techniczna\IV semestr\Programowanie Współbieżne\Projekt\PW_Prom\PW_Prom\obj\Debug\PW_Prom.csprojAssemblyReference.cache
+C:\Users\cp24\OneDrive - Wojskowa Akademia Techniczna\IV semestr\Programowanie Współbieżne\Projekt\PW_Prom\PW_Prom\obj\Debug\PW_Prom.Properties.Resources.resources
+C:\Users\cp24\OneDrive - Wojskowa Akademia Techniczna\IV semestr\Programowanie Współbieżne\Projekt\PW_Prom\PW_Prom\obj\Debug\PW_Prom.csproj.GenerateResource.cache
+C:\Users\cp24\OneDrive - Wojskowa Akademia Techniczna\IV semestr\Programowanie Współbieżne\Projekt\PW_Prom\PW_Prom\obj\Debug\PW_Prom.csproj.CoreCompileInputs.cache
+C:\Users\cp24\OneDrive - Wojskowa Akademia Techniczna\IV semestr\Programowanie Współbieżne\Projekt\PW_Prom\PW_Prom\obj\Debug\PW_Prom.exe
+C:\Users\cp24\OneDrive - Wojskowa Akademia Techniczna\IV semestr\Programowanie Współbieżne\Projekt\PW_Prom\PW_Prom\obj\Debug\PW_Prom.pdb
